@@ -1,9 +1,6 @@
 # Taller-1-POO
-# Taller-1-POO
-Integrantes: - Dalton Arturo Angamarca A.
-- Mateo Eduardo Peralta A.
-             - Elias Mateo Santos S.
-             - Cristian Javier Granda C.
+
+Integrantes: - Dalton Arturo Angamarca Alarcon; Mateo Eduardo Peralta Alvarado; Elias Mateo Santos Salazar; Cristian Javier Granda Cabrera
              
 Taller Grupal: Ejercicios de Casos de Uso
 1. Sistema de Biblioteca
